@@ -45,6 +45,7 @@ nav ul li a:hover{
     font-size: 50px;
     color: aliceblue;
     margin-bottom: 20px;
+   
 }
 
 span{
@@ -65,4 +66,6 @@ span{
     display: inline-block;
     margin: 30px 0;
     border-radius: 15px;
+    box-shadow: 10px 10px #1b1b1b;
+    
 }
