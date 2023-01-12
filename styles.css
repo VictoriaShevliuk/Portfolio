@@ -4,6 +4,8 @@
     font-family: sans-serif;
 }
 
+
+
 .hero{
     position: relative;
     width: 100%;
@@ -75,4 +77,16 @@ span{
     box-shadow: 0 5px #1b1b1b;
     transform: translateY(4px);
     animation-timing-function: linear;
+  }
+
+  
+
+  .mainContainer  {
+   
+    display:inline-flex;
+    width: 350px;
+    padding: 40px;
+    background: #9A989A;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .1);
+    border-radius: 4px;
   }
