@@ -18,9 +18,10 @@ nav{
     width: 84%;
     margin: auto;
     padding: 20px 0;
-    align-items: center;
+    align-items:stretch;
     justify-content: space-between;
 }
+
 
 nav ul li{
     display:inline;
@@ -95,7 +96,7 @@ span{
     width: 120%;
     margin-left: 22%;
     margin-top: -160px;
-    margin-bottom: 500px;
+    margin-bottom: 240px;
     height: auto;
     justify-content: space-between;
     display:grid;
@@ -106,18 +107,16 @@ span{
 
   .box{
     width: 300px;
-    height: 200px;
-    background: #7675756f;
+    height: 316px;
+    background:  #7675756f;
     color: #e1dfdf;
     font-size: 15px;
     text-align: center;
     border-radius: 20px;
-    margin: 15px;
+    margin: 20px;
     box-shadow: 10px 10px #1b1b1b;
     
-    
-    
-   
+
   }
 
   .content{
@@ -125,9 +124,15 @@ span{
     text-align: center;
     height: 80%;
     margin: 11px;
+    margin-top: 15px;
     text-decoration: none;
     color: #e1dfdf;
-   
+
+  }
+
+  .content h3{
+    margin: 10px;
+    font-size: 18px;
 
   }
   
