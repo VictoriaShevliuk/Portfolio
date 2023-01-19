@@ -93,9 +93,9 @@ span{
 
 
   .mainContainer  {
-    width: 120%;
-    margin-left: 22%;
-    margin-top: -160px;
+    width: 132%;
+    margin-left: 12%;
+    margin-top: -227px;
     margin-bottom: 240px;
     height: auto;
     justify-content: space-between;
@@ -106,7 +106,7 @@ span{
   }
 
   .box{
-    width: 300px;
+    width: 360px;
     height: 316px;
     background:  #7675756f;
     color: #e1dfdf;
@@ -121,18 +121,21 @@ span{
 
   .content{
     width: 86%;
-    text-align: center;
+    font-size: 17px;
     height: 80%;
-    margin: 11px;
+    margin: 20px;
     margin-top: 15px;
     text-decoration: none;
-    color: #e1dfdf;
+    color: #e3dbdb;
+    text-align: left;
+    
 
   }
 
   .content h3{
     margin: 10px;
     font-size: 18px;
+    text-align: center;
 
   }
   
